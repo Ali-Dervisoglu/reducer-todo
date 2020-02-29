@@ -3,6 +3,7 @@ import './App.css';
 import TodoList from './components/TodoList';
 
 function App() {
+
   return (
     <div className="App">
       <h1>To-do List</h1>
@@ -10,6 +11,5 @@ function App() {
     </div>
   );
 }
-
 
 export default App;
